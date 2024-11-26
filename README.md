@@ -1,7 +1,7 @@
 # slu's giscus repo
 
-This repository exists to host discussions in certain webpages I maintain. Note the license (which is nonexistent)
-applies to the content of the repository and does not apply to content inside Github discussions.
+This repository exists to host discussions in certain webpages I maintain. Note the license (which is nonexistent at the moment)
+applies to the content of the repository and does NOT apply to content inside Github discussions! If you comment on one of my pages or on the discussions contained herein, it is your content you created that belongs to you, but it's probably safe to say that Github and yours truly can do whatever we want to do with that content that you contributed.
 
 ## Disclaimer
 
